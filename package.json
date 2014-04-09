@@ -1,0 +1,14 @@
+{
+  "name": "my-grunt-skeleton",
+  "version": "0.1.0",
+  "description": "Set up client!",
+  "repository": {
+    "type": "git",
+    "url": "hogehoge"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "load-grunt-config": "^0.8.0-beta.1",
+    "grunt-contrib-uglify": "^0.4.0"
+  }
+}
