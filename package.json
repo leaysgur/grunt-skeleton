@@ -4,7 +4,7 @@
   "description": "Set up client!",
   "repository": {
     "type": "git",
-    "url": "hogehoge"
+    "url": "https://github.com/leader22/grunt-skeleton"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
